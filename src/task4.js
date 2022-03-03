@@ -11,7 +11,7 @@ export const getActivePostsWithActiveComments = async () => {
       $lookup: {
         from: 'comments',
         as: 'all_comments',
-        let: { post_id: '$_id', postDeletedCheck: '$deletedCheck' },
+        let: { post_id: '$_id' },
         pipeline: [
           {
             $match: {
