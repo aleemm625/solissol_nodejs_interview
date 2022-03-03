@@ -1,0 +1,146 @@
+[
+  {
+    "_id": "621deebb4c13a25f5325914e",
+    "taggedUsers": [],
+    "reactionCount": 0,
+    "deletedCheck": false,
+    "userID": "eLCmA2EH3thFoUPGcN1YH7AHSZp2",
+    "postID": "d3301ba3-004d-4a44-91ab-625d8db22e4a",
+    "commentText": "kg i ",
+    "type": "",
+    "textFirst": "",
+    "textSecond": "",
+    "captureFileURL": "",
+    "hyperLink": "",
+    "commentedDate": {
+      "$date": "2022-03-01T10:00:27.683Z"
+    },
+    "createdAt": {
+      "$date": "2022-03-01T10:00:27.684Z"
+    },
+    "updatedAt": {
+      "$date": "2022-03-01T10:00:27.684Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "621deff9de20915f45beaf1f",
+    "taggedUsers": [],
+    "reactionCount": 0,
+    "deletedCheck": false,
+    "userID": "eLCmA2EH3thFoUPGcN1YH7AHSZp2",
+    "postID": "d3301ba3-004d-4a44-91ab-625d8db22e4a",
+    "commentText": "paisy?",
+    "type": "",
+    "textFirst": "",
+    "textSecond": "",
+    "captureFileURL": "",
+    "hyperLink": "",
+    "commentedDate": {
+      "$date": "2022-03-01T10:05:45.507Z"
+    },
+    "createdAt": {
+      "$date": "2022-03-01T10:05:45.510Z"
+    },
+    "updatedAt": {
+      "$date": "2022-03-01T10:05:45.510Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "621e05cf654b175f2c81d308",
+    "taggedUsers": [],
+    "reactionCount": 0,
+    "deletedCheck": false,
+    "userID": "eLCmA2EH3thFoUPGcN1YH7AHSZp2",
+    "postID": "d3301ba3-004d-4a44-91ab-625d8db22e4a",
+    "commentText": "ggg",
+    "type": "",
+    "textFirst": "",
+    "textSecond": "",
+    "captureFileURL": "",
+    "hyperLink": "",
+    "commentedDate": {
+      "$date": "2022-03-01T11:38:55.064Z"
+    },
+    "createdAt": {
+      "$date": "2022-03-01T11:38:55.064Z"
+    },
+    "updatedAt": {
+      "$date": "2022-03-01T11:38:55.064Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "621f24b13adab0d9029fd6ce",
+    "taggedUsers": [],
+    "reactionCount": 0,
+    "deletedCheck": true,
+    "userID": "2aRSIZZnd8YMSNTufkUAtYftbn72",
+    "postID": "d3301ba3-004d-4a44-91ab-625d8db22e4a",
+    "commentText": "test commnet 1",
+    "type": "",
+    "textFirst": "",
+    "textSecond": "",
+    "captureFileURL": "",
+    "hyperLink": "",
+    "commentedDate": {
+      "$date": "2022-03-02T08:02:57.457Z"
+    },
+    "createdAt": {
+      "$date": "2022-03-02T08:02:57.460Z"
+    },
+    "updatedAt": {
+      "$date": "2022-03-02T08:03:11.727Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "621f24b685c9e4d8c4ad1c39",
+    "taggedUsers": [],
+    "reactionCount": 0,
+    "deletedCheck": false,
+    "userID": "2aRSIZZnd8YMSNTufkUAtYftbn72",
+    "postID": "d3301ba3-004d-4a44-91ab-625d8db22e4a",
+    "commentText": "test comment 2",
+    "type": "",
+    "textFirst": "",
+    "textSecond": "",
+    "captureFileURL": "",
+    "hyperLink": "",
+    "commentedDate": {
+      "$date": "2022-03-02T08:03:02.958Z"
+    },
+    "createdAt": {
+      "$date": "2022-03-02T08:03:02.959Z"
+    },
+    "updatedAt": {
+      "$date": "2022-03-02T08:03:02.959Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "621f24bdd4f9ead90921652c",
+    "taggedUsers": [],
+    "reactionCount": 0,
+    "deletedCheck": false,
+    "userID": "2aRSIZZnd8YMSNTufkUAtYftbn72",
+    "postID": "d3301ba3-004d-4a44-91ab-625d8db22e4a",
+    "commentText": "test comment 3",
+    "type": "",
+    "textFirst": "",
+    "textSecond": "",
+    "captureFileURL": "",
+    "hyperLink": "",
+    "commentedDate": {
+      "$date": "2022-03-02T08:03:09.353Z"
+    },
+    "createdAt": {
+      "$date": "2022-03-02T08:03:09.355Z"
+    },
+    "updatedAt": {
+      "$date": "2022-03-02T08:03:09.355Z"
+    },
+    "__v": 0
+  }
+]
